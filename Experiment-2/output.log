@@ -1,0 +1,23 @@
+Microsoft Windows [Version 10.0.26100.4652]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Admin>cd C:\Users\Admin\OneDrive\Documents\GitHub\CN-Lab\Experiment-2
+
+C:\Users\Admin\OneDrive\Documents\GitHub\CN-Lab\Experiment-2>javac SocketHTTPClient.java
+
+C:\Users\Admin\OneDrive\Documents\GitHub\CN-Lab\Experiment-2>java SocketHTTPClient
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Wed, 16 Jul 2025 15:49:02 GMT
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 241
+Connection: keep-alive
+Location: https://www.martinbroadhurst.com/
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.martinbroadhurst.com/">here</a>.</p>
+</body></html>

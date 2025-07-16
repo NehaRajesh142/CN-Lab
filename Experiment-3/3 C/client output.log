@@ -1,0 +1,9 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\Admin\OneDrive\Documents\GitHub\CN-Lab\Experiment-3\3 C> javac FTPClient.java
+PS C:\Users\Admin\OneDrive\Documents\GitHub\CN-Lab\Experiment-3\3 C> java FTPClient
+Enter a new File Name:
+test.txt

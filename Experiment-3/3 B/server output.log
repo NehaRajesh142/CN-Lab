@@ -1,0 +1,15 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\Admin\OneDrive\Documents\GitHub\CN-Lab\Experiment-3\3 B> javac ChatServer.java
+PS C:\Users\Admin\OneDrive\Documents\GitHub\CN-Lab\Experiment-3\3 B> java ChatServer
+CLIENT SAYS :Good Morning Server!
+TO CLIENT :Good Morning Client!
+CLIENT SAYS :How are you?
+TO CLIENT :Am fine. What about you?
+CLIENT SAYS :Me too
+TO CLIENT :ok
+CLIENT SAYS :stop
+TO CLIENT :stop

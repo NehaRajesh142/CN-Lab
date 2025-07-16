@@ -1,0 +1,17 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\Admin\OneDrive\Documents\GitHub\CN-Lab\Experiment-3\3 B> javac ChatClient.java
+PS C:\Users\Admin\OneDrive\Documents\GitHub\CN-Lab\Experiment-3\3 B> java ChatClient
+java.net.ConnectException: Connection refused: connect
+PS C:\Users\Admin\OneDrive\Documents\GitHub\CN-Lab\Experiment-3\3 B> java ChatClient
+TO SERVER :Good Morning Server!
+SERVER SAYS :Good Morning Client!
+TO SERVER :How are you?
+SERVER SAYS :Am fine. What about you?
+TO SERVER :Me too
+SERVER SAYS :ok
+TO SERVER :stop
+SERVER SAYS :stop

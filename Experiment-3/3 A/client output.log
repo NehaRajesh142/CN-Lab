@@ -1,0 +1,10 @@
+PS C:\Users\Admin\OneDrive\Documents\GitHub\CN-Lab\Experiment-3\3 A> javac EchoClient.java
+PS C:\Users\Admin\OneDrive\Documents\GitHub\CN-Lab\Experiment-3\3 A> java EchoClient
+TO SERVER: Good Moring
+SERVER SAYS: Good Morning!
+TO SERVER: How are you?
+SERVER SAYS: I'm good. How are you?
+TO SERVER: Thank you
+SERVER SAYS: Thankyou
+TO SERVER: Stop
+SERVER SAYS: Stop

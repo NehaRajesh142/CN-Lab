@@ -1,0 +1,10 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\Admin\OneDrive\Documents\GitHub\CN-Lab\Experiment-6\6 B> javac Client.java
+PS C:\Users\Admin\OneDrive\Documents\GitHub\CN-Lab\Experiment-6\6 B> java Client
+Enter the Physical Address (MAC):
+6A:08:AA:C2
+The Logical address is (IP): 165.165.80.80

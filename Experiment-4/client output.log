@@ -1,0 +1,10 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\Admin\OneDrive\Documents\GitHub\CN-Lab\Experiment-4> javac Client.java
+PS C:\Users\Admin\OneDrive\Documents\GitHub\CN-Lab\Experiment-4> java Client
+Enter the SERVER/DOMAIN NAME:
+www.aptitudeguru.com
+IP address is: 165.165.80.80

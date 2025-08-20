@@ -1,0 +1,13 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\Admin\OneDrive\Documents\GitHub\CN-Lab\Experiment-10> javac CRC.java
+PS C:\Users\Admin\OneDrive\Documents\GitHub\CN-Lab\Experiment-10> java CRC
+Enter the dataword (in binary): 1001
+Enter the generator polynomial (in binary): 1001
+Generated Codeword (to be transmitted): 1001000
+Enter the received codeword: 1001000
+No Error Detected ?
+PS C:\Users\Admin\OneDrive\Documents\GitHub\CN-Lab\Experiment-10>
